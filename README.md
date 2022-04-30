@@ -1,2 +1,2 @@
 # CalculadoraPython
- calculadora simples em python para fixação da linguagem.
+ Calculadora Simples em Python para Fixação da Linguagem.
